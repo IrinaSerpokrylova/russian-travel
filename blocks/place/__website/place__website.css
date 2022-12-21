@@ -1,18 +1,3 @@
 .place__website {
   place-self: end start;
 }
-
-@media screen and (max-width: 1152px) {
-  .place__website {
-  }
-}
-
-@media screen and (max-width: 896px) {
-  .place__website {
-  }
-}
-
-@media screen and (max-width: 544px) {
-  .place__website {
-  }
-}

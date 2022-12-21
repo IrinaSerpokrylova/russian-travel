@@ -10,16 +10,6 @@
   z-index: 2;
 }
 
-@media screen and (max-width: 1152px) {
-  .cover__subtitle {
-  }
-}
-
-@media screen and (max-width: 896px) {
-  .cover__subtitle {
-  }
-}
-
 @media screen and (max-width: 544px) {
   .cover__subtitle {
     margin-top: 16px;

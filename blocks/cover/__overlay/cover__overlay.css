@@ -15,18 +15,8 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1152px) {
-  .cover__overlay {
-  }
-}
-
 @media screen and (max-width: 896px) {
   .cover__overlay {
     max-height: 480px;
-  }
-}
-
-@media screen and (max-width: 544px) {
-  .cover__overlay {
   }
 }

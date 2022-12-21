@@ -8,9 +8,17 @@
   z-index: 1;
 }
 
+@media screen and (max-width: 1152px) {
+  .cover__link {
+    min-height: 640px;
+    max-height: 640px;
+  }
+}
+
 @media screen and (max-width: 896px) {
   .cover__link {
     min-height: 480px;
+    max-height: 480px;
   }
 }
 
